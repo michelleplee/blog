@@ -39,3 +39,9 @@ p{
     margin-left: 60px;
     
 }
+
+em{
+    font-family: 'Lora', serif;
+    line-height: 2;
+    color: darkseagreen;
+}
