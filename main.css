@@ -1,0 +1,41 @@
+@charset "UTF-8"
+    *{marin:0px; padding:0;}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 5%;
+}
+
+section { overflow: hidden;
+margin-bottom: 2%;
+    width: 60%;
+    margin-left: 10%;
+    
+}
+
+h6{
+ margin-top: -10px;   
+    color: dimgrey;
+}
+
+h2{
+   width: 100%;
+
+}
+h1{
+  float:left;
+    width: 70px;
+    margin-right: -10px;
+    margin-top: -10px;
+    font-size: 80px;
+    color: gainsboro;
+      font-family: 'Lora', serif;
+    opacity: .5;
+
+}
+
+p{
+    margin-top: -10px;
+    margin-left: 60px;
+    
+}
